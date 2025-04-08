@@ -1,4 +1,4 @@
-Number Guessing Game buillt with thw help of C++
+Number Guessing Game buillt with the help of C++
 
 Concepts involved
 - loops
@@ -6,7 +6,6 @@ Concepts involved
 
 
 
----
 
 How the code actually works
 
@@ -20,7 +19,7 @@ How the code actually works
   - Do you want to play again? (y/n):
   - here y||Y for yes.
 
----
+
 
 How the code actually runs:
 
